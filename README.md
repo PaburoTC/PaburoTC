@@ -12,4 +12,6 @@
 
 <img align="left" alt="PaburoTC's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paburotc&show_icons=true&hide_border=true&theme=tokyonight"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paburotc)](https://github.com/paburotc/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paburotc&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/paburotc/github-readme-stats)

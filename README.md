@@ -1,6 +1,6 @@
 # HELLO WORLD
 
-### 📕 Latest Blog Posts
+### 📕 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
 - [Deploy your React App for Free](https://levelup.gitconnected.com/deploy-your-react-app-for-free-8eb8cb687e1?source=rss-e8354330133------2)
 - [Why you should use CI](https://levelup.gitconnected.com/why-you-should-use-ci-df1adc0c5145?source=rss-e8354330133------2)

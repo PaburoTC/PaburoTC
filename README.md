@@ -9,8 +9,7 @@
 - [Unleashing Your Daemons: Creating Services on Ubuntu](https://medium.com/better-programming/unleashing-your-daemons-creating-services-on-ubuntu-731cd933e02e?source=rss-e8354330133------2)
 <!-- BLOG-POST-LIST:END -->
 
-<div style="display:flex;flex-direction:row;">
-  <img align="left" alt="PaburoTC's GitHub Stats" src="https://github-readme-stats.vercel.app/api?    username=paburotc&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img align="left" alt="PaburoTC's GitHub Stats" src="https://github-readme-stats.vercel.app/api?    username=paburotc&show_icons=true&hide_border=true&theme=tokyonight"/>
 
 ---
 

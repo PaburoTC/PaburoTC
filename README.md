@@ -8,3 +8,6 @@
 - [Learn LaTeX in 5 minutes](https://medium.com/analytics-vidhya/learn-latex-in-5-minutes-59a0f98ab721?source=rss-e8354330133------2)
 - [Unleashing Your Daemons: Creating Services on Ubuntu](https://medium.com/better-programming/unleashing-your-daemons-creating-services-on-ubuntu-731cd933e02e?source=rss-e8354330133------2)
 <!-- BLOG-POST-LIST:END -->
+
+
+<img align="left" alt="PaburoTC's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paburotc&show_icons=true&hide_border=true"/>

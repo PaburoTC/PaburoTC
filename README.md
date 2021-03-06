@@ -14,7 +14,7 @@
 
 ### 📕 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
-- [Make Deployment Easy with Continuous Delivery and GitHub Action](https://levelup.gitconnected.com/make-deployment-easy-with-continuous-delivery-and-github-action-f5dde92468a1?source=rss-e8354330133------2)
+- [Make Deployment Easy with Continuous Delivery and GitHub Actions](https://levelup.gitconnected.com/make-deployment-easy-with-continuous-delivery-and-github-action-f5dde92468a1?source=rss-e8354330133------2)
 - [Deploy your React App for Free](https://levelup.gitconnected.com/deploy-your-react-app-for-free-8eb8cb687e1?source=rss-e8354330133------2)
 - [Why you should use CI](https://levelup.gitconnected.com/why-you-should-use-ci-df1adc0c5145?source=rss-e8354330133------2)
 - [GestIA: Control your computer with your hands](https://medium.com/saturdays-ai/gestia-control-your-computer-with-your-hands-6bd65dba09b6?source=rss-e8354330133------2)
